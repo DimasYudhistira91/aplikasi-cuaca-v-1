@@ -46,7 +46,7 @@ body {
   display: flex;
 }
 
-degree.section {
+.degree-section {
   display: flex;
-  align-item: center;
+  align-items: center;
 }
